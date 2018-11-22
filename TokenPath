@@ -1,3 +1,1 @@
-aut <- yadirAuth(Login = "e-16284588", NewUser = TRUE, TokenPath = "AQAAAAAreHE1AAMfZUcGntRr1kVxtd-veZKh1c8
-
-")
+aut <- yadirAuth(Login = "e-16284588", NewUser = TRUE, TokenPath = "AQAAAAAreHE1AAMfZUcGntRr1kVxtd-veZKh1c8")
